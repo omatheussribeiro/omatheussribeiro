@@ -10,12 +10,6 @@
 <!-- ✨ More at [omatheusribeiro.com](https://omatheusribeiro.com) -->
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omatheussribeiro" height="300" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omatheussribeiro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=150&theme=transparent&hide_border=false&order=2" height="300" alt="languages graph"  />
-</div>
-
-
 ### Contact
 
 <p align="left" style="background:yellow">
