@@ -24,14 +24,14 @@ My main expertise is in the **.NET / C# ecosystem**, working across backend, fro
 
 Throughout my career, I've worked across the full software development lifecycle, from architecture and development to CI/CD and production delivery. I'm also passionate about contributing to the open source community and exploring the potential of AI in software engineering.
 
-- 🔹 Senior Software Engineer focused on **.NET, C# and Angular**
-- 🔹 Strong experience with **Microservices and REST APIs**
-- 🔹 Software architecture using **DDD, Clean Architecture and SOLID**
-- 🔹 Experience with **Azure, AWS, GitHub Actions and CI/CD**
-- 🔹 Technical leadership, code reviews and knowledge sharing
-- 🔹 Background in application modernization and legacy migrations
-- 🔹 MBA in **Digital Solutions Architecture**
-- 🔹 MBA in **Software Engineering with Applied AI**
+-  Senior Software Engineer focused on **.NET, C# and Angular**
+-  Strong experience with **Microservices and REST APIs**
+-  Software architecture using **DDD, Clean Architecture and SOLID**
+-  Experience with **Azure, AWS, GitHub Actions and CI/CD**
+-  Technical leadership, code reviews and knowledge sharing
+-  Background in application modernization and legacy migrations
+-  MBA in **Digital Solutions Architecture**
+-  MBA in **Software Engineering with Applied AI**
 
 ---
 
